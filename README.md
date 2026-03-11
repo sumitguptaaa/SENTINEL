@@ -59,11 +59,6 @@ pip install -r requirements.txt
 # Run against ArduPilot SITL
 python sentinel/sentinel.py --connection udp:127.0.0.1:14550
 
-# Run tests
-pytest tests/ -v
-```
-
----
 
 ## Project Structure
 ```
@@ -107,14 +102,14 @@ communication networks.
 
 🔨 **Actively in development — March 2026**
 
-- [x] Project structure
-- [x] MAVPacket dataclass
-- [x] MAVCapture engine
-- [ ] All 6 detection rules (in progress)
-- [ ] Attack injection scripts
+- [x] Project structure and architecture
+- [x] MAVPacket dataclass — core packet representation
+- [x] Alert and Severity system — structured alert output
+- [ ] MAVCapture engine — threaded packet capture loop
+- [ ] Detection rules (6 planned)
+- [ ] Attack simulation scripts
 - [ ] Evaluation framework
 - [ ] Research paper
-
 ---
 
 ## Research Context
