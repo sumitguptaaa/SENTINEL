@@ -52,7 +52,7 @@ MAVLink Traffic (UDP/Serial)
 ## Quick Start
 ```bash
 # Clone and install
-git clone https://github.com/sumitguptaaa/sentinel
+git clone https://github.com/sumitguptaaa/SENTINEL
 cd sentinel
 pip install -r requirements.txt
 
@@ -100,17 +100,19 @@ communication networks.
 
 ## Status
 
-🔨 **Actively in development — March 2026**
+## Status — Actively in development
 
-- [x] Project structure and architecture
-- [x] MAVPacket dataclass — core packet representation
-- [x] Alert and Severity system — structured alert output
-- [ ] MAVCapture engine — threaded packet capture loop
-- [ ] Detection rules (6 planned)
-- [ ] Attack simulation scripts
-- [ ] Evaluation framework
-- [ ] Research paper
----
+Foundation complete:
+- MAVPacket dataclass — core packet representation
+- Alert and Severity system — structured output
+- Repository architecture — production-grade structure
+
+In active development:
+- MAVCapture threaded engine
+- Six detection rules
+- Attack simulation and evaluation framework
+
+Research output target: August 2026
 
 ## Research Context
 
