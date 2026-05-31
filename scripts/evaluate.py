@@ -1,7 +1,11 @@
+import sys
+import os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+
+
 from pymavlink import mavutil
 import time
 import json
-import os
 
 LOG_FILE = 'sentinel_alerts.json'
 TRIALS   = 100
@@ -60,7 +64,37 @@ def atk_unknown():
         1, 1, 246, 0, 1, 0, 0, 0, 0, 0, 0
     )
 results['UNKNOWN_SOURCE'] = evaluate('UNKNOWN_SOURCE', atk_unknown, 1.0)
+# Rule 2 — Inflight DISARM
+# We cannot arm SITL easily so we test the rule directly
+# by checking the rule logic with a known armed state
+print("\n[EVAL] Testing INFLIGHT_DISARM — 100 trials...")
+print("  [NOTE] Testing with simulated armed state")
+disarm_detections = 0
+from sentinel.ids.rules import SentinelRulesEngine, Severity
+from sentinel.core.capture import MAVPacket
 
+for i in range(100):
+    engine_test = SentinelRulesEngine()
+    engine_test.is_learning = False
+    engine_test.known_sysids = {1}
+    engine_test.vehicle_armed = True
+    
+    pkt = MAVPacket(
+        msgtype='COMMAND_LONG',
+        sysid=1,
+        compid=1,
+        payload={'command': 400, 'param1': 0.0}
+    )
+    alerts = engine_test.analyse(pkt)
+    if any(a.rule == 'INFLIGHT_DISARM' for a in alerts):
+        disarm_detections += 1
+    
+    if (i+1) % 20 == 0:
+        print(f"  [{i+1}/100] Detected: {disarm_detections}")
+
+disarm_rate = (disarm_detections / 100) * 100
+print(f"  RESULT: {disarm_rate:.1f}% detection rate")
+results['INFLIGHT_DISARM'] = disarm_rate
 # Rule 3 — Command Flood
 def atk_flood():
     for i in range(60):
