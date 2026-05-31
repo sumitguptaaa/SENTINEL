@@ -45,7 +45,7 @@ from sentinel.core.capture import MAVPacket
 LEARNING_DURATION  = 30.0
 VELOCITY_THRESHOLD = 200.0
 RATE_WINDOW        = 5.0
-RATE_THRESHOLD     = 10.0
+RATE_THRESHOLD     = 8.0
 MAX_SEQ_HISTORY    = 1000
 
 
