@@ -1,0 +1,61 @@
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186501.4713194}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186504.470825}
+{"rule": "REPLAY_ATTACK", "severity": "MEDIUM", "description": "Duplicate seq 0 from sysid 99. Possible replay attack.", "sysid": 99, "timestamp": 1780186504.4708645}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.4717677}
+{"rule": "REPLAY_ATTACK", "severity": "MEDIUM", "description": "Duplicate seq 0 from sysid 99. Possible replay attack.", "sysid": 99, "timestamp": 1780186507.471781}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.516488}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.5524664}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.593476}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.6332078}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.6730068}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.7130804}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.7546256}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.7947986}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.8347626}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.8765748}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.9164755}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.9574835}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186507.9974718}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.0372827}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.0773034}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.1174824}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.1574683}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.197214}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.2385309}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.2785542}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.3194852}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.3596725}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.3996556}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.4404924}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.4807117}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.5209427}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.5598729}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.6006436}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.6413999}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.6813493}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.7234042}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.7635083}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.8038347}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.844076}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.8839898}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186508.926027}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.0215607}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.081919}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.1247823}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.164386}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.204876}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.24557}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.2849154}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.32499}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.3663085}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.4057844}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.4457772}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.4867957}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186509.5264943}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186515.568484}
+{"rule": "REPLAY_ATTACK", "severity": "MEDIUM", "description": "Duplicate seq 42 from sysid 99. Possible replay attack.", "sysid": 99, "timestamp": 1780186515.5684917}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186516.56908}
+{"rule": "REPLAY_ATTACK", "severity": "MEDIUM", "description": "Duplicate seq 42 from sysid 99. Possible replay attack.", "sysid": 99, "timestamp": 1780186516.5690875}
+{"rule": "UNKNOWN_SOURCE", "severity": "HIGH", "description": "Command from UNKNOWN sysid 99. Known: [1].", "sysid": 99, "timestamp": 1780186517.5703146}
+{"rule": "REPLAY_ATTACK", "severity": "MEDIUM", "description": "Duplicate seq 42 from sysid 99. Possible replay attack.", "sysid": 99, "timestamp": 1780186517.570324}
+{"rule": "PARAM_MANIPULATION", "severity": "HIGH", "description": "PARAM_SET from untrusted sysid 99: 'ATC_ANG_PIT_P' = 0.0.", "sysid": 99, "timestamp": 1780186520.57216}
